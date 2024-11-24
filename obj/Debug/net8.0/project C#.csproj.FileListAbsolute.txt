@@ -1,0 +1,25 @@
+c:\Users\User\Desktop\project c#\project C#\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\User\Desktop\project c#\project C#\bin\Debug\net8.0\appsettings.json
+c:\Users\User\Desktop\project c#\project C#\bin\Debug\net8.0\project C#.exe
+c:\Users\User\Desktop\project c#\project C#\bin\Debug\net8.0\project C#.deps.json
+c:\Users\User\Desktop\project c#\project C#\bin\Debug\net8.0\project C#.runtimeconfig.json
+c:\Users\User\Desktop\project c#\project C#\bin\Debug\net8.0\project C#.dll
+c:\Users\User\Desktop\project c#\project C#\bin\Debug\net8.0\project C#.pdb
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\project C#.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\project C#.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\project C#.AssemblyInfo.cs
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\project C#.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\project C#.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\staticwebassets\msbuild.project C#.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\staticwebassets\msbuild.build.project C#.props
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project C#.props
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project C#.props
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\scopedcss\bundle\project C#.styles.css
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\project C#.dll
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\refint\project C#.dll
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\project C#.pdb
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\project C#.genruntimeconfig.cache
+c:\Users\User\Desktop\project c#\project C#\obj\Debug\net8.0\ref\project C#.dll
